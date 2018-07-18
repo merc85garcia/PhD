@@ -1,5 +1,5 @@
 # Factored Neural Machine Translation
-PhD report
+PhD manuscript
 
 Abstract:
 
